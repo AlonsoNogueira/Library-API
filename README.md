@@ -8,7 +8,6 @@ API para gerenciamento de livros, autores e empréstimos, desenvolvida em **Node
 
 - Node.js  
 - Express  
-- MongoDB / Mongoose  
 - JWT (JSON Web Token)  
 - dotenv  
 
